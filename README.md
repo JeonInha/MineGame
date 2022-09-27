@@ -37,7 +37,7 @@ JDK 혹은 JRE 설치가 선행되어야 합니다.
 
 ***
 
-## 3. 프로그램 미리보기
+### 3. 프로그램 미리보기
 - GUI 구현   
 ![poster](./img/1.PNG)   
 ![poster](./img/2.PNG)   
@@ -48,7 +48,7 @@ JDK 혹은 JRE 설치가 선행되어야 합니다.
 
 ***
 
-## 4. LICENSE
+### 4. LICENSE
 - (C) 2022. JeonInha all rights reserved.
 - 해당 프로그램에 사용된 디자인 요소들은 ShutterStock(https://www.shutterstock.com/ko/help) 에서 오픈소스 이미지를 사용하였습니다.
 
