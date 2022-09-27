@@ -49,7 +49,7 @@ JDK 혹은 JRE 설치가 선행되어야 합니다.
 ***
 
 ## 4. LICENSE
-- (C) 2014. JeonInha all rights reserved.
+- (C) 2022. JeonInha all rights reserved.
 - 해당 프로그램에 사용된 디자인 요소들은 ShutterStock(https://www.shutterstock.com/ko/help) 에서 오픈소스 이미지를 사용하였습니다.
 
 
